@@ -15,12 +15,13 @@ This package is not yet available on pypi but you can install it from source::
   $ cd index/
   $ python setup.py install
 
+
 Features
 --------
 
 - Add multiple tag to a file
-
 - Auto get file inside a tag
+- Customizable output
 
 
 Bugs/Requests
